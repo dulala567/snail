@@ -14,7 +14,7 @@
 
 # next.js
 /.next/
-/out/
+# /out/ - Commented out to allow GitHub Pages deployment
 public/sitemap.xml
 .vercel
 

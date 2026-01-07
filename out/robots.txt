@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://yourblog.vercel.app
+Sitemap: https://yourblog.vercel.app/sitemap.xml
